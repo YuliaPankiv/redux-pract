@@ -20,6 +20,7 @@ export const App = () => {
   useEffect(() => {
     localStorage.setItem('todos', JSON.stringify(todos));
   }, [todos]);
+
   const addTodo = text => {
     const todo = {
       id: nanoid(),
