@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redax-pract/static/css/main.c3d5249d.css",
+    "main.js": "/redax-pract/static/js/main.58360561.js",
+    "index.html": "/redax-pract/index.html",
+    "main.c3d5249d.css.map": "/redax-pract/static/css/main.c3d5249d.css.map",
+    "main.58360561.js.map": "/redax-pract/static/js/main.58360561.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d5249d.css",
+    "static/js/main.58360561.js"
+  ]
+}
