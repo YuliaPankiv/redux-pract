@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://YuliaPankiv.github.io/redax-pract/",
+  "homepage": "https://YuliaPankiv.github.io/redux-pract/",
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
